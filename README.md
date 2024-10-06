@@ -1,3 +1,3 @@
 #Projeto Foda
-projeto foda \n
-detalhes adicionais fodas
+projeto foda
+detalhes adicionais fodas pra caralho
